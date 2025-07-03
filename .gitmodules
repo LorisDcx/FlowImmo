@@ -1,0 +1,3 @@
+[submodule "flowimmo"]
+	path = flowimmo
+	url = https://github.com/LorisDcx/FlowImmo.git
